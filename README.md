@@ -1,7 +1,7 @@
 ---
 ### SITES
 
-[[Developer Profile](https://krymmy.github.io/)]
+[ [Developer Profile](https://krymmy.github.io/) ]
 ---
 ### BADGES
 
