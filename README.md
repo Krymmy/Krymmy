@@ -1,4 +1,6 @@
-## Bages
+
+--
+### Badges
 ![Codewars](https://www.codewars.com/users/Krymmy/badges/large)
 
 <!--
