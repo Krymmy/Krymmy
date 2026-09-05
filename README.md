@@ -1,7 +1,7 @@
 
 ---
 ### BADGES
-![Codewars](https://www.codewars.com/users/Krymmy/badges/small)
+![(Codewars)[Krymmy]](https://www.codewars.com/users/Krymmy/badges/small)
 
 <!--
 **Krymmy/Krymmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
