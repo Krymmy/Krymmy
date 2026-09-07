@@ -13,7 +13,7 @@
 ---
 
 ### Last activity
-![Activites](https://krymmy.ru/codewars_hooksvg/last_activity)
+![Activites](https://krymmy.ru/codewars_hooksvg/last_activity?count_events=3)
 
 ---
 
