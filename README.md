@@ -1,14 +1,19 @@
 ---
 
-### SITES
+### Sites
 
 \[ [Developer Profile](https://krymmy.github.io/) \]
 
 ---
 
-### BADGES
+### Badges
 
 ![(Codewars)[https://www.codewars.com/users/Krymmy]](https://www.codewars.com/users/Krymmy/badges/small)
+
+---
+
+### Last activity
+![Activites](http://127.0.0.1:8000/svg)
 
 ```
             ___           _,.---,---.,_
