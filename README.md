@@ -15,6 +15,8 @@
 ### Last activity
 ![Activites](https://krymmy.ru/codewars_hooksvg/last_activity)
 
+---
+
 ```
             ___           _,.---,---.,_
             |         ,;~'             '~;,
