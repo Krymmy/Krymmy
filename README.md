@@ -13,7 +13,7 @@
 ---
 
 ### Last activity
-![Activites](http://127.0.0.1:8000/svg)
+![Activites](https://krymmy.ru/codewars_hooksvg/last_activity)
 
 ```
             ___           _,.---,---.,_
